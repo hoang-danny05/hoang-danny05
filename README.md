@@ -4,7 +4,9 @@ I'm working on creating an ASU faculty tool to help ensure ABET compliance! <br>
 
 # Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Danny Hoang) 
+<a href="https://www.linkedin.com/in/danny-hoang-bajan/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a>
 
 # Stuff That I Use:
 
@@ -42,23 +44,28 @@ I'm working on creating an ASU faculty tool to help ensure ABET compliance! <br>
 
 ### Quotes I Live By
 
+
 <img src="./quote.svg">
 
+W. S. Douglas. (2025). *Doug: A DougDoug Story.* Self-published.
 
+
+<!--
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hoang-danny05&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
 What even are these???
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hoang-danny05&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<!--
+---
+[![](https://visitcount.itsvg.in/api?id=hoang-danny05&icon=2&color=0)](https://visitcount.itsvg.in)
+---
 -->
 
----
 
-[![](https://visitcount.itsvg.in/api?id=hoang-danny05&icon=2&color=0)](https://visitcount.itsvg.in)
 
----
+
+
   ## If You Want to Waste Money
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dannyhoang) 
 
