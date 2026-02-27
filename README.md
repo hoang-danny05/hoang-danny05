@@ -43,26 +43,27 @@ If you're interested in working with me, just shoot me a message! I'm always hap
 ## Check out my stats:
 
 
-<p align="center">
+<p>
+  <!--
   <img 
     src="https://github-readme-stats.vercel.app/api?username=hoang-danny05&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true"
     onerror="this.style.display='none'" 
-  >
+  >-->
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=hoang-danny05&theme=one_dark_pro&hide_border=true"
     onerror="this.style.display='none'" 
   >
-  <img 
+  <!--<img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoang-danny05&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
     onerror="this.style.display='none'" 
-  >
+  >-->
 </p>
 
 ## A quote I live by
 
-
-<img src="./static/skyblock.svg">
-
+<p>
+  <img src="./static/skyblock.svg">
+</p>
 
 <!--
 ## GitHub Trophies
