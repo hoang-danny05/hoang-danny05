@@ -131,7 +131,9 @@ What even are these???
 
 ## Want to support me?
 <p align="center">
+  <a href="youtube.com">
   <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Donate Please!">
+    </a>
   <img src="https://komarev.com/ghpvc/?username=hoang-danny05&label=PROFILE%20VIEWS&color=e50914&style=for-the-badge" alt="Profile Views" />
 <p/>
 
